@@ -1,0 +1,12 @@
+fastapi==0.115.6
+imageio==2.36.1
+imageio-ffmpeg==0.5.1
+matplotlib==3.7.1
+moviepy==1.0.3
+mpmath==1.3.0
+networkx==3.2.1
+numba==0.60.0
+numpy==1.23.5
+urllib3==2.3.0
+uvicorn==0.34.0
+zipp==3.21.0
