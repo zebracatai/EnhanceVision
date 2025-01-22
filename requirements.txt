@@ -10,3 +10,4 @@ numpy==1.23.5
 urllib3==2.3.0
 uvicorn==0.34.0
 zipp==3.21.0
+opencv-python
